@@ -6,6 +6,12 @@ El objetivo principal de esta prueba técnica es diseñar, desarrollar y optimiz
 
 ---
 
+### Ambiente de Trabajo:
+
+- Google Colab (!pip freeze > requirements.txt)
+
+---
+
 ### Descripción del Conjunto de Datos  
 La evolución de la tecnología de los estetoscopios ha permitido la grabación de sonidos pulmonares de alta calidad en individuos sanos y en pacientes con diversas afecciones pulmonares.  
 
